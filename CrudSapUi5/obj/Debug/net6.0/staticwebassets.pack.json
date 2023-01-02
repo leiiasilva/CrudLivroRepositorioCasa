@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Projeto\\ProjetoCrud\\CrudSapUi5\\wwwroot\\Component.js",
+      "PackagePath": "staticwebassets\\Component.js"
+    },
+    {
+      "Id": "C:\\Projeto\\ProjetoCrud\\CrudSapUi5\\wwwroot\\controller\\App.controller.js",
+      "PackagePath": "staticwebassets\\controller\\App.controller.js"
+    },
+    {
+      "Id": "C:\\Projeto\\ProjetoCrud\\CrudSapUi5\\wwwroot\\controller\\Detalhes.controller.js",
+      "PackagePath": "staticwebassets\\controller\\Detalhes.controller.js"
+    },
+    {
+      "Id": "C:\\Projeto\\ProjetoCrud\\CrudSapUi5\\wwwroot\\controller\\ListaDeLivros.controller.js",
+      "PackagePath": "staticwebassets\\controller\\ListaDeLivros.controller.js"
+    },
+    {
+      "Id": "C:\\Projeto\\ProjetoCrud\\CrudSapUi5\\wwwroot\\controller\\TelaCadastro.controller.js",
+      "PackagePath": "staticwebassets\\controller\\TelaCadastro.controller.js"
+    },
+    {
+      "Id": "C:\\Projeto\\ProjetoCrud\\CrudSapUi5\\wwwroot\\i18n\\i18n.properties",
+      "PackagePath": "staticwebassets\\i18n\\i18n.properties"
+    },
+    {
+      "Id": "C:\\Projeto\\ProjetoCrud\\CrudSapUi5\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Projeto\\ProjetoCrud\\CrudSapUi5\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "C:\\Projeto\\ProjetoCrud\\CrudSapUi5\\wwwroot\\servicos\\Repositorio.controller.js",
+      "PackagePath": "staticwebassets\\servicos\\Repositorio.controller.js"
+    },
+    {
+      "Id": "C:\\Projeto\\ProjetoCrud\\CrudSapUi5\\wwwroot\\servicos\\Validacao.controller.js",
+      "PackagePath": "staticwebassets\\servicos\\Validacao.controller.js"
+    },
+    {
+      "Id": "C:\\Projeto\\ProjetoCrud\\CrudSapUi5\\wwwroot\\view\\App.view.xml",
+      "PackagePath": "staticwebassets\\view\\App.view.xml"
+    },
+    {
+      "Id": "C:\\Projeto\\ProjetoCrud\\CrudSapUi5\\wwwroot\\view\\Detalhes.view.xml",
+      "PackagePath": "staticwebassets\\view\\Detalhes.view.xml"
+    },
+    {
+      "Id": "C:\\Projeto\\ProjetoCrud\\CrudSapUi5\\wwwroot\\view\\ListaDeLivros.view.xml",
+      "PackagePath": "staticwebassets\\view\\ListaDeLivros.view.xml"
+    },
+    {
+      "Id": "C:\\Projeto\\ProjetoCrud\\CrudSapUi5\\wwwroot\\view\\Overview.view.xml",
+      "PackagePath": "staticwebassets\\view\\Overview.view.xml"
+    },
+    {
+      "Id": "C:\\Projeto\\ProjetoCrud\\CrudSapUi5\\wwwroot\\view\\TelaCadastro.view.xml",
+      "PackagePath": "staticwebassets\\view\\TelaCadastro.view.xml"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CrudSapUi5.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CrudSapUi5.props",
+      "PackagePath": "build\\CrudSapUi5.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CrudSapUi5.props",
+      "PackagePath": "buildMultiTargeting\\CrudSapUi5.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CrudSapUi5.props",
+      "PackagePath": "buildTransitive\\CrudSapUi5.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

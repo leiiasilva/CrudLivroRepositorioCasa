@@ -1,0 +1,12 @@
+C:\Projeto\ProjetoCrud\Dominio\bin\Debug\net6.0\Dominio.deps.json
+C:\Projeto\ProjetoCrud\Dominio\bin\Debug\net6.0\Dominio.dll
+C:\Projeto\ProjetoCrud\Dominio\bin\Debug\net6.0\Dominio.pdb
+C:\Projeto\ProjetoCrud\Dominio\obj\Debug\net6.0\Dominio.csproj.AssemblyReference.cache
+C:\Projeto\ProjetoCrud\Dominio\obj\Debug\net6.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto\ProjetoCrud\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfoInputs.cache
+C:\Projeto\ProjetoCrud\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfo.cs
+C:\Projeto\ProjetoCrud\Dominio\obj\Debug\net6.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Projeto\ProjetoCrud\Dominio\obj\Debug\net6.0\Dominio.dll
+C:\Projeto\ProjetoCrud\Dominio\obj\Debug\net6.0\refint\Dominio.dll
+C:\Projeto\ProjetoCrud\Dominio\obj\Debug\net6.0\Dominio.pdb
+C:\Projeto\ProjetoCrud\Dominio\obj\Debug\net6.0\ref\Dominio.dll

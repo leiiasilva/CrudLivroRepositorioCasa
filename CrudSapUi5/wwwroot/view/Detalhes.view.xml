@@ -1,0 +1,45 @@
+<mvc:View
+	controllerName="sap.ui.demo.walkthrough.controller.Detalhes"
+	xmlns="sap.m"
+	xmlns:l="sap.ui.layout"
+	xmlns:mvc="sap.ui.core.mvc"
+	xmlns:form="sap.ui.layout.form">
+<Page
+	title="{i18n>tituloDaPaginaDetalhes}"
+	showNavButton="true"
+	navButtonPress=".aoClicarEmVoltar">
+	
+	<headerContent>
+		<Button text="Editar"  press=".aoClicarEmEditar" icon="sap-icon://edit" />
+		<Button text="Deletar"  press=".aoClicarEmDeletar" icon="sap-icon://delete" />
+	</headerContent>
+	
+<VBox >
+	<form:SimpleForm
+		width="70%"
+	 	layout="ResponsiveGridLayout" 
+	 	editable="true">
+	
+		<Label text="Código"  /> <Text  text="{livro>/codigo}"/> 
+
+		<Label text="Nome"   /> <Text  text="{livro>/nome}"/> 
+
+		<Label text="Autor"  /> <Text  text="{livro>/autor}"/> 
+
+		<Label text="Editora"  /> <Text  text="{livro>/editora}"/> 
+
+		<Label text="Ano Publicação"/>
+		<Text  text="{
+					path: 'livro>/anoPublicacao',
+					type: 'sap.ui.model.type.Date',
+					formatOptions: {
+					  style: 'long',
+					  source: {
+						pattern: 'yyyy-MM-ddTHH:mm:ss'
+					  }
+					}
+				  }"  /> 
+	</form:SimpleForm>	
+</VBox>
+</Page>
+</mvc:View>

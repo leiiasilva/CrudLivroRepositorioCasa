@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CrudSapUi5.props" />
+</Project>
